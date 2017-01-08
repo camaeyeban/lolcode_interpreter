@@ -1,0 +1,8 @@
+C:\Users\Camae\Desktop\1\CRYCS124Project\obj\x86\Debug\WindowsFormsApplication1.about_program.resources
+C:\Users\Camae\Desktop\1\CRYCS124Project\obj\x86\Debug\WindowsFormsApplication1.main_form.resources
+C:\Users\Camae\Desktop\1\CRYCS124Project\obj\x86\Debug\CRYCS124Project.csproj.GenerateResource.Cache
+C:\Users\Camae\Desktop\1\CRYCS124Project\obj\x86\Debug\LolcodeInterpreter.Properties.Resources.resources
+C:\Users\Camae\Desktop\1\CRYCS124Project\bin\Debug\cmsc124project.exe
+C:\Users\Camae\Desktop\1\CRYCS124Project\bin\Debug\cmsc124project.pdb
+C:\Users\Camae\Desktop\1\CRYCS124Project\obj\x86\Debug\cmsc124project.exe
+C:\Users\Camae\Desktop\1\CRYCS124Project\obj\x86\Debug\cmsc124project.pdb
